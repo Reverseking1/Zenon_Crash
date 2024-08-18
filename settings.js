@@ -10,9 +10,9 @@ global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '48459439078'  //creator number
-global.ownername = 'Toxxic Md' //owner name
-global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
+global.ownernumber = '233257514504'  //creator number
+global.ownername = 'Reverse  King ❤️💰' //owner name
+global.botname = 'Reverse  King ❤️💰' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
